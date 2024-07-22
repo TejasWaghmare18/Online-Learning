@@ -3,6 +3,8 @@ This project is a responsive educational website designed to help students learn
 It provides a user-friendly interface with a clean design to make studying more accessible and enjoyable. 
 The website is built using HTML, CSS, and Bootstrap, ensuring it is responsive and works well on various devices, including desktops, tablets, and smartphones.
 
+![image](https://github.com/user-attachments/assets/c46b8b98-384c-403c-8f75-77b9301d8124)
+
 
 Features:
 Responsive Design: The website adjusts seamlessly to different screen sizes, providing an optimal viewing experience on all devices.
